@@ -1,0 +1,33 @@
+.bg {
+    background-image: url(../images/Group\ 57.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: local;
+    background-position: center;
+    width: 1366px;
+    height: 324px;
+ 
+}
+.nav {
+    
+    display: flex;
+    justify-content: space-between;
+    width: 1089px;
+    color: white;
+    padding-top: 30px;
+    padding-left: 139px;
+    font-size:12px;
+
+}
+.nav-li { 
+    display: flex;
+    color: white;
+    
+}
+li {
+     margin-right: 30px;
+
+
+
+    }
+}
